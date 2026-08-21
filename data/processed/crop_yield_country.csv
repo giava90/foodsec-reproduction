@@ -1,0 +1,779 @@
+crop,country,mean
+bambara_nut,Burkina Faso,1022.311111111111
+banana,Burkina Faso,25395.122222222224
+cashew,Burkina Faso,1065.3444444444444
+cassava,Burkina Faso,15481.877777777778
+sweet_pepper,Burkina Faso,5162.777777777777
+cowpea,Burkina Faso,482.6555555555555
+fonio,Burkina Faso,738.3888888888889
+groundnut,Burkina Faso,828.7222222222222
+lemons,Burkina Faso,6988.522222222222
+maize,Burkina Faso,1676.3555555555556
+mango,Burkina Faso,9411.944444444445
+guava,Burkina Faso,9411.944444444445
+fingermillet,Burkina Faso,813.0333333333333
+millet,Burkina Faso,813.0333333333333
+pearl_millet,Burkina Faso,813.0333333333333
+okra,Burkina Faso,7672.944444444444
+onions,Burkina Faso,16717.644444444442
+oranges,Burkina Faso,4591.311111111111
+mucuna,Burkina Faso,1029.788888888889
+passion_fruit,Burkina Faso,5433.7555555555555
+jackfruit,Burkina Faso,5433.7555555555555
+pepper_spice,Burkina Faso,800.5111111111112
+irish_potato,Burkina Faso,1937.611111111111
+rice,Burkina Faso,2186.3777777777777
+simsim,Burkina Faso,573.0
+sesame,Burkina Faso,573.0
+sorghum,Burkina Faso,972.2666666666667
+soya_bean,Burkina Faso,1113.8666666666666
+broad_beans,Burkina Faso,1113.8666666666666
+sugarcane,Burkina Faso,101652.43333333333
+sweet_potato,Burkina Faso,11032.744444444445
+tomato,Burkina Faso,17112.9
+yam,Burkina Faso,8801.622222222222
+banana,Burundi,7151.122222222222
+green_gram,Burundi,638.5333333333333
+beans,Burundi,638.5333333333333
+haricot_bean,Burundi,638.5333333333333
+cassava,Burundi,8216.244444444445
+amaranth,Burundi,843.3555555555556
+teff,Burundi,843.3555555555556
+coffee,Burundi,939.7222222222222
+groundnut,Burundi,643.2666666666667
+maize,Burundi,1290.7777777777778
+fingermillet,Burundi,1101.0888888888887
+millet,Burundi,1101.0888888888887
+pearl_millet,Burundi,1101.0888888888887
+field_pea,Burundi,4953.811111111111
+pigeon_pea,Burundi,1126.3666666666666
+irish_potato,Burundi,9917.222222222223
+rice,Burundi,1836.7333333333331
+sorghum,Burundi,672.8555555555555
+soya_bean,Burundi,467.94444444444446
+broad_beans,Burundi,467.94444444444446
+sugarcane,Burundi,58257.97777777777
+sweet_potato,Burundi,10771.711111111112
+taro,Burundi,7471.011111111112
+wheat,Burundi,713.4444444444445
+yam,Burundi,11394.08888888889
+banana,Comoros,5553.766666666666
+cassava,Comoros,5868.288888888888
+coconut,Comoros,2834.722222222222
+coffee,Comoros,143.27777777777777
+cucumber,Comoros,11960.877777777778
+groundnut,Comoros,873.6222222222223
+maize,Comoros,1799.0444444444445
+onions,Comoros,2542.3888888888887
+mucuna,Comoros,784.7555555555556
+pigeon_pea,Comoros,775.4444444444445
+irish_potato,Comoros,15010.722222222223
+rice,Comoros,298.27777777777777
+sweet_potato,Comoros,4345.055555555556
+taro,Comoros,7843.055555555556
+tomato,Comoros,8935.366666666667
+yam,Comoros,5530.922222222222
+avocado,Côte d'Ivoire,7034.077777777778
+banana,Côte d'Ivoire,44493.27777777778
+green_gram,Côte d'Ivoire,851.3222222222222
+beans,Côte d'Ivoire,851.3222222222222
+haricot_bean,Côte d'Ivoire,851.3222222222222
+cashew,Côte d'Ivoire,547.4444444444445
+cassava,Côte d'Ivoire,5832.933333333333
+chilipepper,Côte d'Ivoire,5026.966666666667
+sweet_pepper,Côte d'Ivoire,6782.966666666666
+coconut,Côte d'Ivoire,3468.2444444444445
+coffee,Côte d'Ivoire,132.43333333333334
+cucumber,Côte d'Ivoire,4727.877777777778
+arrow_root,Côte d'Ivoire,16576.28888888889
+eggplant,Côte d'Ivoire,5422.577777777778
+fonio,Côte d'Ivoire,1367.3666666666666
+groundnut,Côte d'Ivoire,1438.8111111111111
+maize,Côte d'Ivoire,2120.0333333333333
+mango,Côte d'Ivoire,584.9222222222222
+guava,Côte d'Ivoire,584.9222222222222
+fingermillet,Côte d'Ivoire,857.3777777777777
+millet,Côte d'Ivoire,857.3777777777777
+pearl_millet,Côte d'Ivoire,857.3777777777777
+okra,Côte d'Ivoire,2772.311111111111
+onions,Côte d'Ivoire,9444.422222222223
+oranges,Côte d'Ivoire,12754.022222222222
+macadamia,Côte d'Ivoire,949.0999999999999
+mucuna,Côte d'Ivoire,773.0333333333333
+passion_fruit,Côte d'Ivoire,1237.3444444444444
+jackfruit,Côte d'Ivoire,1237.3444444444444
+papaya,Côte d'Ivoire,2490.6222222222223
+pepper_spice,Côte d'Ivoire,606.7
+pineapple,Côte d'Ivoire,60078.35555555555
+plantain,Côte d'Ivoire,3852.5666666666666
+squash,Côte d'Ivoire,9722.0
+zucchini,Côte d'Ivoire,9722.0
+pumpkin,Côte d'Ivoire,9722.0
+rice,Côte d'Ivoire,2769.5444444444443
+simsim,Côte d'Ivoire,203.7111111111111
+sesame,Côte d'Ivoire,203.7111111111111
+sorghum,Côte d'Ivoire,708.1444444444445
+soya_bean,Côte d'Ivoire,1470.5555555555557
+broad_beans,Côte d'Ivoire,1470.5555555555557
+sugarcane,Côte d'Ivoire,80023.43333333333
+sweet_potato,Côte d'Ivoire,1803.0111111111112
+taro,Côte d'Ivoire,1160.3111111111111
+tomato,Côte d'Ivoire,10362.28888888889
+yam,Côte d'Ivoire,5671.655555555556
+avocado,Democratic Republic of the Congo,6739.122222222222
+bambara_nut,Democratic Republic of the Congo,392.31111111111113
+banana,Democratic Republic of the Congo,3758.4555555555553
+barley,Democratic Republic of the Congo,680.7
+green_gram,Democratic Republic of the Congo,544.4222222222222
+beans,Democratic Republic of the Congo,544.4222222222222
+haricot_bean,Democratic Republic of the Congo,544.4222222222222
+kales,Democratic Republic of the Congo,17233.277777777777
+cabbage,Democratic Republic of the Congo,17233.277777777777
+carrot,Democratic Republic of the Congo,8798.166666666666
+cassava,Democratic Republic of the Congo,8176.644444444445
+chilipepper,Democratic Republic of the Congo,3467.0222222222224
+coffee,Democratic Republic of the Congo,393.5777777777778
+cowpea,Democratic Republic of the Congo,445.06666666666666
+cucumber,Democratic Republic of the Congo,4111.733333333334
+arrow_root,Democratic Republic of the Congo,7294.022222222222
+groundnut,Democratic Republic of the Congo,909.4555555555556
+lemons,Democratic Republic of the Congo,15122.0
+lettuce,Democratic Republic of the Congo,40990.8
+maize,Democratic Republic of the Congo,771.9555555555556
+mango,Democratic Republic of the Congo,16823.411111111112
+guava,Democratic Republic of the Congo,16823.411111111112
+fingermillet,Democratic Republic of the Congo,669.0222222222222
+millet,Democratic Republic of the Congo,669.0222222222222
+pearl_millet,Democratic Republic of the Congo,669.0222222222222
+oranges,Democratic Republic of the Congo,15417.433333333332
+mucuna,Democratic Republic of the Congo,400.9888888888889
+papaya,Democratic Republic of the Congo,16945.344444444447
+field_pea,Democratic Republic of the Congo,405.22222222222223
+pigeon_pea,Democratic Republic of the Congo,613.0
+pineapple,Democratic Republic of the Congo,24483.733333333334
+plantain,Democratic Republic of the Congo,4498.355555555555
+irish_potato,Democratic Republic of the Congo,4575.033333333334
+squash,Democratic Republic of the Congo,10734.955555555556
+zucchini,Democratic Republic of the Congo,10734.955555555556
+pumpkin,Democratic Republic of the Congo,10734.955555555556
+rice,Democratic Republic of the Congo,936.6111111111111
+simsim,Democratic Republic of the Congo,433.7888888888889
+sesame,Democratic Republic of the Congo,433.7888888888889
+sorghum,Democratic Republic of the Congo,671.9888888888888
+soya_bean,Democratic Republic of the Congo,512.0222222222222
+broad_beans,Democratic Republic of the Congo,512.0222222222222
+sugarcane,Democratic Republic of the Congo,43442.27777777778
+sweet_potato,Democratic Republic of the Congo,5017.011111111111
+taro,Democratic Republic of the Congo,3725.2999999999997
+tomato,Democratic Republic of the Congo,7551.611111111111
+wheat,Democratic Republic of the Congo,1196.788888888889
+yam,Democratic Republic of the Congo,4538.366666666667
+avocado,Ethiopia,5389.844444444444
+banana,Ethiopia,9937.855555555556
+barley,Ethiopia,2240.3888888888887
+green_gram,Ethiopia,1543.3000000000002
+beans,Ethiopia,1543.3000000000002
+haricot_bean,Ethiopia,1543.3000000000002
+fava_bean,Ethiopia,2105.088888888889
+kales,Ethiopia,9802.933333333332
+cabbage,Ethiopia,9802.933333333332
+carrot,Ethiopia,4160.966666666666
+amaranth,Ethiopia,1856.0777777777778
+teff,Ethiopia,1856.0777777777778
+chick_peas,Ethiopia,2028.1444444444448
+chilipepper,Ethiopia,1756.0888888888887
+sweet_pepper,Ethiopia,5808.988888888889
+coffee,Ethiopia,663.1555555555556
+cucumber,Ethiopia,22161.233333333334
+grapes,Ethiopia,2035.5888888888887
+groundnut,Ethiopia,1656.3777777777777
+lemons,Ethiopia,4503.433333333333
+lentils,Ethiopia,1387.8111111111111
+lettuce,Ethiopia,750.5666666666667
+linseed,Ethiopia,1070.9222222222222
+maize,Ethiopia,3757.6444444444446
+mango,Ethiopia,5674.655555555556
+guava,Ethiopia,5674.655555555556
+fingermillet,Ethiopia,2403.511111111111
+millet,Ethiopia,2403.511111111111
+pearl_millet,Ethiopia,2403.511111111111
+oats,Ethiopia,2012.8999999999999
+onions,Ethiopia,12460.311111111112
+oranges,Ethiopia,7274.455555555555
+macadamia,Ethiopia,1074.7777777777778
+mucuna,Ethiopia,1252.4333333333334
+passion_fruit,Ethiopia,7383.633333333333
+jackfruit,Ethiopia,7383.633333333333
+papaya,Ethiopia,13832.811111111112
+field_pea,Ethiopia,1662.4555555555555
+pepper_spice,Ethiopia,635.4666666666667
+pineapple,Ethiopia,2112.288888888889
+irish_potato,Ethiopia,14756.477777777776
+rice,Ethiopia,3051.311111111111
+simsim,Ethiopia,711.6666666666666
+sesame,Ethiopia,711.6666666666666
+sorghum,Ethiopia,2683.188888888889
+soya_bean,Ethiopia,2369.4444444444443
+broad_beans,Ethiopia,2369.4444444444443
+sugarcane,Ethiopia,44489.31111111111
+sunflower,Ethiopia,1113.111111111111
+sweet_potato,Ethiopia,29241.155555555557
+taro,Ethiopia,25228.466666666667
+tomato,Ethiopia,5291.533333333334
+wheat,Ethiopia,2913.4555555555553
+yam,Ethiopia,9081.866666666667
+avocado,Ghana,4549.055555555556
+banana,Ghana,11588.688888888888
+green_gram,Ghana,1310.111111111111
+beans,Ghana,1310.111111111111
+haricot_bean,Ghana,1310.111111111111
+cashew,Ghana,541.5444444444445
+cassava,Ghana,22043.366666666665
+chilipepper,Ghana,7468.988888888888
+sweet_pepper,Ghana,8591.0
+coconut,Ghana,6049.633333333333
+coffee,Ghana,1600.0
+cowpea,Ghana,1506.5111111111112
+cucumber,Ghana,13379.08888888889
+arrow_root,Ghana,5264.477777777778
+eggplant,Ghana,8027.299999999999
+groundnut,Ghana,1541.788888888889
+lemons,Ghana,6621.877777777778
+maize,Ghana,2341.577777777778
+mango,Ghana,13946.455555555556
+guava,Ghana,13946.455555555556
+fingermillet,Ghana,1324.9111111111113
+millet,Ghana,1324.9111111111113
+pearl_millet,Ghana,1324.9111111111113
+oats,Ghana,908.2777777777778
+okra,Ghana,21061.31111111111
+oranges,Ghana,39309.01111111112
+macadamia,Ghana,144.39999999999998
+mucuna,Ghana,93.9
+papaya,Ghana,3497.222222222222
+pepper_spice,Ghana,685.7111111111111
+pineapple,Ghana,64839.855555555565
+plantain,Ghana,11034.722222222223
+rice,Ghana,3273.2
+sorghum,Ghana,1163.9555555555555
+soya_bean,Ghana,1743.5222222222224
+broad_beans,Ghana,1743.5222222222224
+sugarcane,Ghana,24571.866666666665
+sweet_potato,Ghana,1831.622222222222
+taro,Ghana,7029.133333333333
+tomato,Ghana,7817.144444444445
+yam,Ghana,17626.61111111111
+avocado,Kenya,15371.277777777777
+banana,Kenya,24505.377777777776
+barley,Kenya,3342.2000000000003
+green_gram,Kenya,662.1888888888889
+beans,Kenya,662.1888888888889
+haricot_bean,Kenya,662.1888888888889
+kales,Kenya,34424.12222222222
+cabbage,Kenya,34424.12222222222
+carrot,Kenya,23818.088888888888
+cashew,Kenya,625.1777777777778
+cassava,Kenya,13792.366666666667
+chick_peas,Kenya,349.82222222222225
+chilipepper,Kenya,1222.4666666666667
+sweet_pepper,Kenya,7981.966666666666
+coconut,Kenya,1436.7444444444445
+coffee,Kenya,375.3333333333333
+cowpea,Kenya,730.7444444444444
+cucumber,Kenya,9123.877777777778
+arrow_root,Kenya,7622.088888888889
+groundnut,Kenya,1385.1666666666667
+lemons,Kenya,10791.977777777778
+lentils,Kenya,790.5999999999999
+lettuce,Kenya,22193.844444444447
+linseed,Kenya,1005.0555555555555
+maize,Kenya,1624.8666666666666
+mango,Kenya,12679.266666666666
+guava,Kenya,12679.266666666666
+fingermillet,Kenya,740.6111111111111
+millet,Kenya,740.6111111111111
+pearl_millet,Kenya,740.6111111111111
+oats,Kenya,997.8222222222222
+okra,Kenya,10176.466666666667
+oranges,Kenya,10899.255555555555
+macadamia,Kenya,5688.966666666666
+mucuna,Kenya,584.3666666666667
+passion_fruit,Kenya,9964.033333333333
+jackfruit,Kenya,9964.033333333333
+papaya,Kenya,13600.333333333334
+peas,Kenya,8231.944444444445
+pepper_spice,Kenya,965.1111111111111
+pigeon_pea,Kenya,828.5333333333333
+pineapple,Kenya,31075.255555555555
+plantain,Kenya,12165.666666666666
+irish_potato,Kenya,9869.655555555555
+rice,Kenya,4809.233333333334
+simsim,Kenya,653.9333333333333
+sesame,Kenya,653.9333333333333
+sorghum,Kenya,881.6666666666666
+soya_bean,Kenya,1030.288888888889
+broad_beans,Kenya,1030.288888888889
+spinach,Kenya,16920.9
+sugarcane,Kenya,75703.43333333332
+sunflower,Kenya,981.4777777777776
+sweet_potato,Kenya,13724.966666666667
+tomato,Kenya,21634.9
+melon,Kenya,25186.233333333334
+watermelon,Kenya,25186.233333333334
+wheat,Kenya,2411.6000000000004
+yam,Kenya,9006.822222222221
+avocado,Malawi,5153.566666666667
+banana,Malawi,29794.277777777777
+green_gram,Malawi,588.2444444444444
+beans,Malawi,588.2444444444444
+haricot_bean,Malawi,588.2444444444444
+kales,Malawi,20640.855555555558
+cabbage,Malawi,20640.855555555558
+carrot,Malawi,20027.8
+cashew,Malawi,2114.6777777777775
+cassava,Malawi,23333.622222222224
+chick_peas,Malawi,795.4888888888888
+chilipepper,Malawi,655.411111111111
+sweet_pepper,Malawi,4043.342857142857
+coffee,Malawi,2057.588888888889
+cowpea,Malawi,470.2555555555556
+cucumber,Malawi,24896.514285714286
+eggplant,Malawi,30989.442857142858
+grapes,Malawi,5271.671428571428
+groundnut,Malawi,855.9666666666667
+lemons,Malawi,5577.511111111111
+lentils,Malawi,680.8444444444444
+maize,Malawi,1911.6777777777777
+mango,Malawi,29553.044444444447
+guava,Malawi,29553.044444444447
+fingermillet,Malawi,666.5333333333333
+millet,Malawi,666.5333333333333
+pearl_millet,Malawi,666.5333333333333
+okra,Malawi,1946.011111111111
+oranges,Malawi,7299.288888888889
+macadamia,Malawi,982.1444444444444
+mucuna,Malawi,976.2857142857143
+passion_fruit,Malawi,4330.922222222222
+jackfruit,Malawi,4330.922222222222
+papaya,Malawi,12121.855555555556
+field_pea,Malawi,902.9000000000001
+pepper_spice,Malawi,1074.1222222222223
+pigeon_pea,Malawi,1631.4444444444443
+pineapple,Malawi,36837.75555555555
+plantain,Malawi,10813.488888888889
+irish_potato,Malawi,17634.166666666668
+squash,Malawi,21980.428571428572
+zucchini,Malawi,21980.428571428572
+pumpkin,Malawi,21980.428571428572
+rice,Malawi,1811.888888888889
+simsim,Malawi,358.7857142857143
+sesame,Malawi,358.7857142857143
+sorghum,Malawi,944.4333333333333
+soya_bean,Malawi,1068.4111111111113
+broad_beans,Malawi,1068.4111111111113
+sugarcane,Malawi,107643.45555555556
+sunflower,Malawi,1077.5666666666666
+sweet_potato,Malawi,21919.01111111111
+tomato,Malawi,20840.933333333334
+melon,Malawi,35177.677777777775
+watermelon,Malawi,35177.677777777775
+wheat,Malawi,1100.5333333333333
+bambara_nut,Mali,647.8222222222222
+banana,Mali,22006.88888888889
+green_gram,Mali,10033.522222222222
+beans,Mali,10033.522222222222
+haricot_bean,Mali,10033.522222222222
+kales,Mali,19070.722222222223
+cabbage,Mali,19070.722222222223
+carrot,Mali,15868.955555555556
+cashew,Mali,2390.1222222222223
+cassava,Mali,14696.733333333334
+amaranth,Mali,449.24444444444447
+teff,Mali,449.24444444444447
+chilipepper,Mali,842.2888888888889
+sweet_pepper,Mali,3875.511111111111
+cowpea,Mali,459.55555555555554
+cucumber,Mali,15830.21111111111
+eggplant,Mali,16302.422222222222
+fonio,Mali,637.911111111111
+groundnut,Mali,924.6444444444444
+lemons,Mali,12540.766666666666
+lettuce,Mali,11406.377777777778
+maize,Mali,2666.6000000000004
+mango,Mali,18714.644444444442
+guava,Mali,18714.644444444442
+fingermillet,Mali,857.2111111111111
+millet,Mali,857.2111111111111
+pearl_millet,Mali,857.2111111111111
+okra,Mali,11596.244444444445
+onions,Mali,23370.31111111111
+oranges,Mali,15796.644444444442
+macadamia,Mali,984.7222222222222
+mucuna,Mali,1023.811111111111
+papaya,Mali,20466.644444444442
+irish_potato,Mali,22170.544444444444
+squash,Mali,15707.722222222223
+zucchini,Mali,15707.722222222223
+pumpkin,Mali,15707.722222222223
+rice,Mali,3257.855555555556
+simsim,Mali,482.6666666666667
+sesame,Mali,482.6666666666667
+sorghum,Mali,953.411111111111
+soya_bean,Mali,584.0999999999999
+broad_beans,Mali,584.0999999999999
+sugarcane,Mali,72660.54444444444
+sweet_potato,Mali,15648.566666666668
+tomato,Mali,17290.866666666665
+melon,Mali,18286.588888888888
+watermelon,Mali,18286.588888888888
+wheat,Mali,4790.0
+yam,Mali,17273.588888888888
+bambara_nut,Niger,580.3444444444444
+green_gram,Niger,518.3777777777777
+beans,Niger,518.3777777777777
+haricot_bean,Niger,518.3777777777777
+kales,Niger,28110.966666666667
+cabbage,Niger,28110.966666666667
+carrot,Niger,23655.67777777778
+cassava,Niger,26077.0
+amaranth,Niger,329.5444444444445
+teff,Niger,329.5444444444445
+chick_peas,Niger,573.0999999999999
+chilipepper,Niger,10101.122222222222
+sweet_pepper,Niger,18846.155555555553
+cowpea,Niger,395.55555555555554
+cucumber,Niger,11441.355555555556
+eggplant,Niger,19473.522222222222
+fonio,Niger,593.8444444444444
+groundnut,Niger,579.9666666666667
+lettuce,Niger,23845.366666666665
+maize,Niger,1081.8333333333333
+mango,Niger,3956.766666666667
+guava,Niger,3956.766666666667
+fingermillet,Niger,504.09999999999997
+millet,Niger,504.09999999999997
+pearl_millet,Niger,504.09999999999997
+okra,Niger,813.5444444444444
+mucuna,Niger,377.0222222222222
+field_pea,Niger,425.4
+pepper_spice,Niger,319.94444444444446
+irish_potato,Niger,31157.455555555553
+squash,Niger,32034.399999999998
+zucchini,Niger,32034.399999999998
+pumpkin,Niger,32034.399999999998
+rice,Niger,4443.377777777778
+simsim,Niger,470.77777777777777
+sesame,Niger,470.77777777777777
+sorghum,Niger,504.5222222222222
+sugarcane,Niger,45682.81111111111
+sweet_potato,Niger,28614.92222222222
+tomato,Niger,25757.722222222223
+melon,Niger,26021.977777777778
+watermelon,Niger,26021.977777777778
+wheat,Niger,2674.3999999999996
+banana,Nigeria,13381.6
+carrot,Nigeria,8857.922222222223
+cashew,Nigeria,639.4555555555556
+cassava,Nigeria,7180.277777777777
+chilipepper,Nigeria,1727.888888888889
+sweet_pepper,Nigeria,7488.7555555555555
+coconut,Nigeria,7573.822222222221
+coffee,Nigeria,1300.6999999999998
+cowpea,Nigeria,801.5333333333333
+fonio,Nigeria,492.4111111111111
+groundnut,Nigeria,1222.8333333333333
+maize,Nigeria,1885.7222222222222
+mango,Nigeria,7135.455555555555
+guava,Nigeria,7135.455555555555
+fingermillet,Nigeria,983.188888888889
+millet,Nigeria,983.188888888889
+pearl_millet,Nigeria,983.188888888889
+okra,Nigeria,1122.1888888888889
+onions,Nigeria,16801.300000000003
+macadamia,Nigeria,2657.577777777778
+mucuna,Nigeria,454.4666666666667
+papaya,Nigeria,9090.877777777778
+pineapple,Nigeria,8218.144444444444
+plantain,Nigeria,6349.74
+irish_potato,Nigeria,3782.744444444444
+rice,Nigeria,1997.6888888888889
+simsim,Nigeria,822.7777777777778
+sesame,Nigeria,822.7777777777778
+sorghum,Nigeria,1199.0444444444445
+soya_bean,Nigeria,990.1111111111111
+broad_beans,Nigeria,990.1111111111111
+sugarcane,Nigeria,17505.82222222222
+sweet_potato,Nigeria,2669.6666666666665
+taro,Nigeria,6290.4
+tomato,Nigeria,4159.888888888889
+wheat,Nigeria,1675.1222222222223
+yam,Nigeria,8556.933333333332
+avocado,Rwanda,20752.92222222222
+banana,Rwanda,9659.755555555555
+green_gram,Rwanda,784.5222222222222
+beans,Rwanda,784.5222222222222
+haricot_bean,Rwanda,784.5222222222222
+kales,Rwanda,14549.900000000001
+cabbage,Rwanda,14549.900000000001
+carrot,Rwanda,10725.91111111111
+cassava,Rwanda,12749.8
+sweet_pepper,Rwanda,5270.955555555555
+coffee,Rwanda,1051.0666666666666
+eggplant,Rwanda,9030.455555555556
+groundnut,Rwanda,455.8666666666667
+lemons,Rwanda,4155.944444444444
+maize,Rwanda,1505.211111111111
+mango,Rwanda,9166.855555555556
+guava,Rwanda,9166.855555555556
+fingermillet,Rwanda,546.0222222222222
+millet,Rwanda,546.0222222222222
+pearl_millet,Rwanda,546.0222222222222
+oranges,Rwanda,1886.4555555555553
+passion_fruit,Rwanda,12118.855555555556
+jackfruit,Rwanda,12118.855555555556
+papaya,Rwanda,18536.933333333334
+field_pea,Rwanda,667.4333333333333
+pepper_spice,Rwanda,3587.3444444444444
+pineapple,Rwanda,5700.155555555556
+plantain,Rwanda,9680.844444444445
+irish_potato,Rwanda,8214.966666666667
+squash,Rwanda,5160.422222222222
+zucchini,Rwanda,5160.422222222222
+pumpkin,Rwanda,5160.422222222222
+rice,Rwanda,3759.0888888888894
+sorghum,Rwanda,1043.7777777777778
+soya_bean,Rwanda,473.8666666666667
+broad_beans,Rwanda,473.8666666666667
+sugarcane,Rwanda,13030.955555555556
+sweet_potato,Rwanda,6838.922222222222
+taro,Rwanda,5503.166666666667
+tomato,Rwanda,9869.477777777778
+wheat,Rwanda,1082.322222222222
+yam,Rwanda,8775.722222222223
+banana,Senegal,26287.955555555556
+kales,Senegal,18039.644444444442
+cabbage,Senegal,18039.644444444442
+carrot,Senegal,7880.022222222222
+cashew,Senegal,394.18888888888887
+cassava,Senegal,12210.022222222222
+chilipepper,Senegal,7334.722222222223
+coconut,Senegal,3061.3333333333335
+cowpea,Senegal,609.7
+eggplant,Senegal,10081.21111111111
+fonio,Senegal,876.5111111111112
+groundnut,Senegal,1199.4555555555555
+maize,Senegal,2292.6555555555556
+mango,Senegal,6723.722222222223
+guava,Senegal,6723.722222222223
+fingermillet,Senegal,1005.5333333333333
+millet,Senegal,1005.5333333333333
+pearl_millet,Senegal,1005.5333333333333
+okra,Senegal,33678.322222222225
+oranges,Senegal,7474.522222222222
+macadamia,Senegal,1476.2555555555555
+mucuna,Senegal,1356.788888888889
+passion_fruit,Senegal,7447.966666666666
+jackfruit,Senegal,7447.966666666666
+irish_potato,Senegal,22787.51111111111
+squash,Senegal,23230.800000000003
+zucchini,Senegal,23230.800000000003
+pumpkin,Senegal,23230.800000000003
+rice,Senegal,3568.9444444444443
+simsim,Senegal,668.7222222222222
+sesame,Senegal,668.7222222222222
+sorghum,Senegal,1205.9333333333334
+sugarcane,Senegal,114110.37777777779
+sweet_potato,Senegal,41108.87777777778
+tomato,Senegal,20394.266666666666
+melon,Senegal,16250.255555555557
+watermelon,Senegal,16250.255555555557
+yam,Senegal,18018.844444444447
+fava_bean,Sierra Leone,871.9666666666667
+cassava,Sierra Leone,14764.699999999999
+amaranth,Sierra Leone,807.088888888889
+teff,Sierra Leone,807.088888888889
+chilipepper,Sierra Leone,4305.422222222222
+sweet_pepper,Sierra Leone,1866.6666666666667
+coconut,Sierra Leone,994.688888888889
+coffee,Sierra Leone,1589.9555555555555
+groundnut,Sierra Leone,1175.3000000000002
+maize,Sierra Leone,1822.8666666666666
+mango,Sierra Leone,3361.811111111111
+guava,Sierra Leone,3361.811111111111
+fingermillet,Sierra Leone,1085.3333333333333
+millet,Sierra Leone,1085.3333333333333
+pearl_millet,Sierra Leone,1085.3333333333333
+mucuna,Sierra Leone,637.5444444444444
+field_pea,Sierra Leone,853.7888888888889
+plantain,Sierra Leone,5514.2555555555555
+rice,Sierra Leone,1508.9333333333334
+simsim,Sierra Leone,548.5222222222222
+sesame,Sierra Leone,548.5222222222222
+sorghum,Sierra Leone,973.6333333333334
+sugarcane,Sierra Leone,69739.4
+sweet_potato,Sierra Leone,7471.111111111111
+taro,Sierra Leone,2575.6666666666665
+tomato,Sierra Leone,8878.644444444444
+avocado,South Africa,5038.799999999999
+banana,South Africa,58859.166666666664
+barley,South Africa,3470.011111111111
+green_gram,South Africa,1247.0555555555557
+beans,South Africa,1247.0555555555557
+haricot_bean,South Africa,1247.0555555555557
+kales,South Africa,58146.48888888889
+cabbage,South Africa,58146.48888888889
+carrot,South Africa,29423.411111111112
+amaranth,South Africa,506.35555555555555
+teff,South Africa,506.35555555555555
+chilipepper,South Africa,2055.6000000000004
+sweet_pepper,South Africa,8511.633333333333
+cowpea,South Africa,436.15555555555557
+cucumber,South Africa,17577.133333333335
+grapes,South Africa,17127.844444444447
+groundnut,South Africa,1254.9444444444443
+lemons,South Africa,21425.133333333335
+lettuce,South Africa,15349.344444444445
+maize,South Africa,5134.222222222223
+mango,South Africa,18131.833333333332
+guava,South Africa,18131.833333333332
+fingermillet,South Africa,489.6555555555555
+millet,South Africa,489.6555555555555
+pearl_millet,South Africa,489.6555555555555
+oats,South Africa,1520.711111111111
+oranges,South Africa,42751.46666666667
+macadamia,South Africa,3462.1888888888884
+papaya,South Africa,9146.977777777778
+peas,South Africa,35885.52222222222
+field_pea,South Africa,1024.7777777777778
+pineapple,South Africa,11939.8
+irish_potato,South Africa,36836.57777777778
+squash,South Africa,8434.055555555555
+zucchini,South Africa,8434.055555555555
+pumpkin,South Africa,8434.055555555555
+rice,South Africa,2809.488888888889
+sorghum,South Africa,2988.366666666667
+soya_bean,South Africa,1974.0444444444447
+broad_beans,South Africa,1974.0444444444447
+sugarcane,South Africa,67525.68888888888
+sunflower,South Africa,1319.6444444444444
+sweet_potato,South Africa,2763.077777777778
+tomato,South Africa,66713.68888888888
+melon,South Africa,16079.388888888889
+watermelon,South Africa,16079.388888888889
+wheat,South Africa,3608.5333333333333
+green_gram,Uganda,1225.1
+beans,Uganda,1225.1
+haricot_bean,Uganda,1225.1
+cassava,Uganda,2303.5555555555557
+chick_peas,Uganda,617.7
+chilipepper,Uganda,1000.0111111111112
+coffee,Uganda,559.5222222222222
+cowpea,Uganda,479.55555555555554
+groundnut,Uganda,564.7888888888889
+maize,Uganda,1998.1555555555558
+fingermillet,Uganda,1376.822222222222
+millet,Uganda,1376.822222222222
+pearl_millet,Uganda,1376.822222222222
+field_pea,Uganda,496.81111111111113
+pepper_spice,Uganda,1233.6444444444444
+pigeon_pea,Uganda,347.68888888888887
+pineapple,Uganda,8492.5
+plantain,Uganda,4545.888888888889
+irish_potato,Uganda,7180.1
+rice,Uganda,1508.2444444444445
+simsim,Uganda,671.4000000000001
+sesame,Uganda,671.4000000000001
+sorghum,Uganda,998.1222222222223
+soya_bean,Uganda,647.2888888888889
+broad_beans,Uganda,647.2888888888889
+sugarcane,Uganda,69834.9
+sunflower,Uganda,992.9666666666667
+sweet_potato,Uganda,4594.788888888888
+tomato,Uganda,5765.877777777778
+wheat,Uganda,1625.4666666666667
+banana,United Republic of Tanzania,9551.111111111111
+barley,United Republic of Tanzania,1919.611111111111
+green_gram,United Republic of Tanzania,1267.0777777777778
+beans,United Republic of Tanzania,1267.0777777777778
+haricot_bean,United Republic of Tanzania,1267.0777777777778
+kales,United Republic of Tanzania,11595.044444444444
+cabbage,United Republic of Tanzania,11595.044444444444
+carrot,United Republic of Tanzania,2834.05
+cashew,United Republic of Tanzania,356.56666666666666
+cassava,United Republic of Tanzania,6340.866666666667
+amaranth,United Republic of Tanzania,1067.3111111111111
+teff,United Republic of Tanzania,1067.3111111111111
+chick_peas,United Republic of Tanzania,823.2444444444444
+chilipepper,United Republic of Tanzania,2270.3
+sweet_pepper,United Republic of Tanzania,26891.533333333333
+coconut,United Republic of Tanzania,4849.455555555555
+coffee,United Republic of Tanzania,257.3333333333333
+cowpea,United Republic of Tanzania,1061.322222222222
+arrow_root,United Republic of Tanzania,2229.077777777778
+grapes,United Republic of Tanzania,5877.9
+groundnut,United Republic of Tanzania,801.4888888888888
+lemons,United Republic of Tanzania,5279.011111111111
+maize,United Republic of Tanzania,1672.3000000000002
+mango,United Republic of Tanzania,12989.688888888888
+guava,United Republic of Tanzania,12989.688888888888
+fingermillet,United Republic of Tanzania,1102.5333333333333
+millet,United Republic of Tanzania,1102.5333333333333
+pearl_millet,United Republic of Tanzania,1102.5333333333333
+okra,United Republic of Tanzania,4412.12
+oranges,United Republic of Tanzania,12462.933333333332
+macadamia,United Republic of Tanzania,4740.077777777778
+mucuna,United Republic of Tanzania,1013.5222222222224
+passion_fruit,United Republic of Tanzania,2573.6000000000004
+jackfruit,United Republic of Tanzania,2573.6000000000004
+peas,United Republic of Tanzania,7628.211111111111
+field_pea,United Republic of Tanzania,589.0333333333333
+pepper_spice,United Republic of Tanzania,461.05555555555554
+pigeon_pea,United Republic of Tanzania,1073.0555555555557
+pineapple,United Republic of Tanzania,24182.955555555556
+plantain,United Republic of Tanzania,1874.0555555555557
+irish_potato,United Republic of Tanzania,8382.811111111112
+rice,United Republic of Tanzania,2932.6111111111113
+simsim,United Republic of Tanzania,721.2
+sesame,United Republic of Tanzania,721.2
+sorghum,United Republic of Tanzania,1051.1666666666667
+soya_bean,United Republic of Tanzania,1121.9111111111113
+broad_beans,United Republic of Tanzania,1121.9111111111113
+sugarcane,United Republic of Tanzania,69340.96666666666
+sunflower,United Republic of Tanzania,1044.5
+sweet_potato,United Republic of Tanzania,6860.700000000001
+tomato,United Republic of Tanzania,13176.366666666667
+melon,United Republic of Tanzania,7565.822222222221
+watermelon,United Republic of Tanzania,7565.822222222221
+wheat,United Republic of Tanzania,1173.6666666666667
+yam,United Republic of Tanzania,6418.7555555555555
+bambara_nut,Zambia,959.9777777777776
+banana,Zambia,4286.677777777778
+barley,Zambia,7383.511111111112
+green_gram,Zambia,609.9000000000001
+beans,Zambia,609.9000000000001
+haricot_bean,Zambia,609.9000000000001
+cassava,Zambia,27023.133333333335
+chilipepper,Zambia,1025.211111111111
+coffee,Zambia,1080.5888888888887
+cowpea,Zambia,551.8444444444444
+groundnut,Zambia,678.2888888888889
+maize,Zambia,2494.1777777777775
+fingermillet,Zambia,792.6333333333333
+millet,Zambia,792.6333333333333
+pearl_millet,Zambia,792.6333333333333
+oranges,Zambia,4431.544444444445
+mucuna,Zambia,475.9777777777778
+passion_fruit,Zambia,4137.211111111112
+jackfruit,Zambia,4137.211111111112
+pepper_spice,Zambia,853.1111111111111
+pineapple,Zambia,7552.700000000001
+irish_potato,Zambia,20443.277777777777
+rice,Zambia,1365.2333333333333
+sorghum,Zambia,643.0
+soya_bean,Zambia,1531.5555555555557
+broad_beans,Zambia,1531.5555555555557
+sugarcane,Zambia,103935.34444444445
+sunflower,Zambia,517.9000000000001
+sweet_potato,Zambia,3260.9333333333334
+tomato,Zambia,9728.311111111112
+wheat,Zambia,6826.922222222222
